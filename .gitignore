@@ -1,0 +1,15 @@
+# Ignora ambientes virtuais
+venv/
+.venv/
+
+# Ignora arquivos do VSCode, PyCharm etc.
+.vscode/
+.idea/
+
+# Ignora arquivos temporários
+__pycache__/
+*.pyc
+
+# Ignora dados, se quiser
+*.csv
+*.xlsx
