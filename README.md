@@ -2,7 +2,7 @@
 
 Projeto com Dash e Plotly que exibe gráficos e formulário interativo para análise de dados médicos.
 
-##Aqui está a tela do formulário do app:
+## Aqui está a tela do formulário do app:
 
 ![Tela 1](screenshots/tela1.png)
 
