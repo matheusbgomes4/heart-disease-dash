@@ -1,6 +1,6 @@
 # Dashboard de Doenças Cardíacas
 
-Projeto com Dash e Plotly que exibe gráficos e formulário interativo para análise de dados médicos.
+Projeto com Dash e Plotly que exibe gráficos e formulário interativo para análise de dados médicos com ML.
 
 ## Aqui está a tela do formulário do app:
 
